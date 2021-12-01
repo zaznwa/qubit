@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78e409ba-1c9e-4576-a6f3-14a28352902c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zzi0O7l8YYfqWNtUhXG8fN6UHR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloudBudget" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\first-project\src\images\slider" />
+      <recent name="C:\Users\User\Desktop\first-project\src\libs\owl-carousel" />
+      <recent name="C:\Users\User\Desktop\first-project\src\libs\fancybox" />
+      <recent name="C:\Users\User\Desktop\first-project\src\images\footer" />
+      <recent name="C:\Users\User\Desktop\first-project\src\images\technology" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78e409ba-1c9e-4576-a6f3-14a28352902c" name="Default Changelist" comment="" />
+      <created>1635157092592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635157092592</updated>
+      <workItem from="1635157095004" duration="5801000" />
+      <workItem from="1635329569216" duration="526000" />
+      <workItem from="1635502535382" duration="6027000" />
+      <workItem from="1635761389372" duration="249000" />
+      <workItem from="1635761743724" duration="6199000" />
+      <workItem from="1635934217825" duration="405000" />
+      <workItem from="1635934679747" duration="5900000" />
+      <workItem from="1636107529957" duration="5572000" />
+      <workItem from="1636366147584" duration="93000" />
+      <workItem from="1636366420414" duration="5813000" />
+      <workItem from="1636539357148" duration="5214000" />
+      <workItem from="1636712040582" duration="341000" />
+      <workItem from="1636715046563" duration="1325000" />
+      <workItem from="1638348851864" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1635765933701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1635765933701" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1635936782180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1635936782180" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1636370258594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1636370258594" />
+  </component>
+</project>
